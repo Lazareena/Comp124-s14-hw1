@@ -26,7 +26,8 @@ TBA: one of Roberts, page 128 #5, page 54 #5, or page 92 #3
 
 Submitting your assignment
 ---
-Make sure you push your results to your private repo
+Make sure you push your results to your private repo and submit the URL your repo to moodle.
+
 Acknowledgements:
 ---
 Paul Cantrell developed the unit conversions assignment.
