@@ -22,7 +22,7 @@ I have created a `UnitConversions` class that converts temperatures. Unfortunate
 Problem 2: Averaging Numbers
 ---
 
-TBA: one of Roberts, page 128 #5, page 54 #5, or page 92 #3
+Roberts, page 128 #5
 
 Submitting your assignment
 ---
