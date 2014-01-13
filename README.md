@@ -4,7 +4,7 @@ Comp 124: Homework 1
 Setup
 ---
 Follow the "Cloning a repo" section of the [IntelliJ setup doc](https://docs.google.com/a/macalester.edu/document/d/1YCFhChx8lCrh7DZXp9oqnWptu8e_Y2um4-5EC2PMvD4/edit#heading=h.x8g2dpj52ulr) to fork this repository.
-The URL for this repo is in the lower right hand corner of this page ( https://github.com/mac-comp124-f13/hw1.git ).
+The URL for this repo is in the right hand side of this page.
 
 
 Problem 1: Unit Conversions
